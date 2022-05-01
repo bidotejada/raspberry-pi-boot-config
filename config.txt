@@ -5,6 +5,8 @@ hdmi_mode=82
 disable_overscan=1
 lcd_rotate=2
 display_rotate=0
+over_voltage=2
+arm_freq=1750
 ##
 
 # For more options and information see
